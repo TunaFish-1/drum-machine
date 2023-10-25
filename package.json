@@ -1,6 +1,6 @@
 {
   "name": "drum-machine",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://TunaFish-1.github.io/drum-machine",
   "private": true,
   "dependencies": {
