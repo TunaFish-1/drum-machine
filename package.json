@@ -1,7 +1,7 @@
 {
   "name": "drum-machine",
   "version": "0.1.0",
-  "homepage": "https://TunaFish-1.github.io/markdown-previewer",
+  "homepage": "https://TunaFish-1.github.io/drum-machine",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
